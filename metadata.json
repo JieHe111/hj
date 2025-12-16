@@ -1,0 +1,5 @@
+{
+  "name": "Copy of 2oo2 Safety System Simulator",
+  "description": "A simulation of a 2-out-of-2 (2oo2) safety-critical system with FTSM, demonstrating synchronization, data consistency checks, and state machine transitions as per course requirements.",
+  "requestFramePermissions": []
+}
